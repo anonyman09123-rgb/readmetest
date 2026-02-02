@@ -1,11 +1,14 @@
-<!-- ===================== HERO ===================== -->
+<!-- ===================================================== -->
+<!--                     HERO                              -->
+<!-- ===================================================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:B23A2E,50:D4AF37,100:3B2A23&text=KitchenEngineer1332&fontAlignY=35&fontSize=42&fontColor=F4EDE4" />
 </p>
 
 <p align="center">
-  <em>Engineering logic • Creative expression</em><br/>
+  <strong>Kitchen Engineer</strong><br/>
+  <em>Engineering logic · Creative expression</em><br/>
   <sub>Systems that are quietly powerful and deliberately human</sub>
 </p>
 
@@ -15,16 +18,11 @@
 
 ---
 
-# KitchenEngineer1332
-
-> **Kitchen Engineer** blending engineering logic with creative expression.  
-> Building systems that are *quietly powerful* and *deliberately human*.
-
----
-
-## ✦ About Me
+## About Me
 
 I work at the intersection of **engineering discipline** and **creative intuition**.
+
+My interests and work span across:
 
 - 💻 Programming & Automation  
 - 🤖 Bots & System Tools  
@@ -38,18 +36,26 @@ I enjoy building things that are:
 - **Functional**, but never cold  
 - **Practical**, with personality embedded  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=22&pause=1500&color=B23A2E&center=true&vCenter=true&width=650&lines=Minimal+but+powerful;Functional+yet+aesthetic;Practical+with+personality" />
-</p>
+---
 
+<!-- ===== subtle divider ===== -->
+<p align="center">
+  <svg width="700" height="40" viewBox="0 0 700 40" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="warmGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#3B2A23"/>
+        <stop offset="50%" stop-color="#D4AF37"/>
+        <stop offset="100%" stop-color="#B23A2E"/>
+      </linearGradient>
+    </defs>
+    <line x1="20" y1="20" x2="680" y2="20" stroke="url(#warmGlow)" stroke-width="2"/>
+    <circle cx="350" cy="20" r="4" fill="#D4AF37"/>
+  </svg>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B2A23,100:D4AF37&height=2" />
-</p>
-
-## ✦ What Lives Here
+## What Lives Here
 
 This space acts as a **workshop**, not a gallery.
 
@@ -59,37 +65,39 @@ You’ll find:
 - Web projects (HTML, CSS, JavaScript)
 - Linux customization & distro experiments
 - UI/UX concepts and interface explorations
-- Automation tools & scripts
-- Documentation and thought pieces
+- Utility scripts and automation tools
+- Documentation, notes, and guides
 
-Some projects ship.  
-Some evolve.  
-Some exist only to test an idea properly.
+Some projects are experimental.  
+Some are production-ready.  
+Some exist purely to explore an idea properly.
 
 ---
 
-## ✦ Philosophy
+## Philosophy
 
-> Code is not just instruction.  
-> It is **experience**, **structure**, and **intent**.
+> This is not just about code.  
+> It’s about **how systems feel**, how users interact, and how simplicity can still be expressive.
 
-I care deeply about:
+I value:
 
 - Clean structure  
 - Readable, calm code  
 - Thoughtful UX decisions  
 - Long-term maintainability  
-- Systems that explain themselves  
 
 If something feels heavy, it’s unfinished.
 
 ---
 
+<!-- ===== divider ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:B23A2E&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D4AF37,100:B23A2E" />
 </p>
 
-## ✦ Tech Stack (Contextual)
+---
+
+## Tech Stack (varies by project)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3B2A23?style=for-the-badge&logo=python&logoColor=F4EDE4"/>
@@ -105,23 +113,23 @@ If something feels heavy, it’s unfinished.
 
 ---
 
-## ✦ Status
+## Status
 
 - Actively building and refining  
 - Structure evolves as systems mature  
-- Public, but intentionally curated  
+- Public repository, intentionally curated  
 
 ---
 
-## ✦ Contact
+## Contact & Links
 
-- 🌐 https://kitchenengineer1332.github.io  
-- 🐙 https://github.com/KitchenEngineer1332  
+- 🌐 Website: https://kitchenengineer1332.github.io  
+- 🐙 GitHub: https://github.com/KitchenEngineer1332  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B2A23,50:D4AF37,100:B23A2E&height=120&section=footer&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3B2A23,50:D4AF37,100:B23A2E&fontSize=0" />
 </p>
 
 ---
