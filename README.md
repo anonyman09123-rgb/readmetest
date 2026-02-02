@@ -17,7 +17,7 @@
 
 # KitchenEngineer1332
 
-> **Kitchen Engineer** — blending engineering logic with creative expression.  
+> **Kitchen Engineer** blending engineering logic with creative expression.  
 > Building systems that are *quietly powerful* and *deliberately human*.
 
 ---
