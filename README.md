@@ -38,6 +38,11 @@ I enjoy building things that are:
 - **Functional**, but never cold  
 - **Practical**, with personality embedded  
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=22&pause=1500&color=B23A2E&center=true&vCenter=true&width=650&lines=Minimal+but+powerful;Functional+yet+aesthetic;Practical+with+personality" />
+</p>
+
+
 ---
 
 <p align="center">
