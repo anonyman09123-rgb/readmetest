@@ -1,82 +1,95 @@
-<!-- ================= HEADER ================= -->
+<!-- ===================================================== -->
+<!--                     HERO SECTION                      -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=28&pause=1200&color=B23A2E&center=true&vCenter=true&width=750&lines=KitchenEngineer1332;Engineering+Logic+%E2%80%A2+Creative+Expression;Minimal+Systems+with+Personality"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=34&pause=1200&color=B23A2E&center=true&vCenter=true&width=900&lines=KitchenEngineer1332;Engineering+with+Intent;Systems+that+Feel+Human" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api
-    ?type=rect
-    &color=0:B23A2E,100:D4AF37
-    &height=3"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B23A2E,50:D4AF37,100:3B2A23&height=110&section=header&text=&fontSize=0" />
 </p>
 
 ---
 
 # KitchenEngineer1332
 
-**Kitchen Engineer** — blending engineering logic with creative expression.
-
-Welcome to my GitHub space.  
-This repository serves as the central hub for my experiments, projects, and explorations across software development, system design, automation, and creative technology.
+> **Kitchen Engineer** — blending engineering logic with creative expression.  
+> Building systems that are *quietly powerful* and *deliberately human*.
 
 ---
 
-## 👋 About Me
+## ✦ About Me
 
-I work at the intersection of:
+I work at the intersection of **engineering discipline** and **creative intuition**.
 
-- 💻 **Programming & Automation**
-- 🤖 **Bots & System Tools**
-- 🌐 **Web Design & Frontend Experiments**
-- 🐧 **Linux, Minimal Systems & Custom Distros**
-- 🎨 **Creative Interfaces & Visual Concepts**
+- 💻 Programming & Automation  
+- 🤖 Bots & System Tools  
+- 🌐 Web Design & Frontend Experiments  
+- 🐧 Linux, Minimal Systems & Custom Distros  
+- 🎨 Creative Interfaces & Visual Concepts  
 
 I enjoy building things that are:
-- Minimal but powerful  
-- Functional yet aesthetic  
-- Practical with a touch of personality  
+
+- **Minimal**, but never empty  
+- **Functional**, but never cold  
+- **Practical**, with personality embedded  
 
 ---
 
-## 🚀 What You’ll Find Here
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B2A23,100:D4AF37&height=2" />
+</p>
 
-This repository may include (or link to):
+## ✦ What Lives Here
 
-- Discord bots (moderation, confessions, fun utilities)
+This space acts as a **workshop**, not a gallery.
+
+You’ll find:
+
+- Discord bots (moderation, confessions, utilities)
 - Web projects (HTML, CSS, JavaScript)
 - Linux customization & distro experiments
-- UI/UX concepts and design prototypes
-- Utility scripts and automation tools
-- Documentation and guides
+- UI/UX concepts and interface explorations
+- Automation tools & scripts
+- Documentation and thought pieces
 
-Some projects are experimental, some are production-ready, and some exist purely to explore ideas.
+Some projects ship.  
+Some evolve.  
+Some exist only to test an idea properly.
 
 ---
 
-## 🧠 Philosophy
+## ✦ Philosophy
 
-> This is not just about code.  
-> It’s about **how systems feel**, how users interact, and how simplicity can still be expressive.
+> Code is not just instruction.  
+> It is **experience**, **structure**, and **intent**.
 
-I value:
+I care deeply about:
+
 - Clean structure  
-- Readable code  
-- Thoughtful UX  
+- Readable, calm code  
+- Thoughtful UX decisions  
 - Long-term maintainability  
+- Systems that explain themselves  
+
+If something feels heavy, it’s unfinished.
 
 ---
 
-## 🔧 Tech Stack (varies by project)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:B23A2E&height=2" />
+</p>
 
-<p align="left">
+## ✦ Tech Stack (Contextual)
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3B2A23?style=for-the-badge&logo=python&logoColor=F4EDE4"/>
   <img src="https://img.shields.io/badge/JavaScript-B23A2E?style=for-the-badge&logo=javascript&logoColor=F4EDE4"/>
   <img src="https://img.shields.io/badge/Bash-3B2A23?style=for-the-badge&logo=gnu-bash&logoColor=F4EDE4"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-0F0F0F?style=for-the-badge&logo=linux&logoColor=D4AF37"/>
   <img src="https://img.shields.io/badge/HTML5-B23A2E?style=for-the-badge&logo=html5&logoColor=F4EDE4"/>
   <img src="https://img.shields.io/badge/CSS3-3B2A23?style=for-the-badge&logo=css3&logoColor=F4EDE4"/>
@@ -84,35 +97,26 @@ I value:
 
 ---
 
-## 📌 Status
+## ✦ Status
 
-- Actively building and refining projects  
-- README and structure will evolve over time  
-- Public repository, but curated carefully  
+- Actively building and refining  
+- Structure evolves as systems mature  
+- Public, but intentionally curated  
 
 ---
 
-## 📬 Contact & Links
+## ✦ Contact
 
-- 🌐 Website: https://kitchenengineer1332.github.io/  
-- 🐙 GitHub: https://github.com/KitchenEngineer1332  
+- 🌐 https://kitchenengineer1332.github.io  
+- 🐙 https://github.com/KitchenEngineer1332  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api
-    ?type=rect
-    &color=0:D4AF37,100:B23A2E
-    &height=2"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B2A23,50:D4AF37,100:B23A2E&height=120&section=footer&fontSize=0" />
 </p>
-
-## 📜 License
-
-Unless stated otherwise in a specific project, code is shared for learning and experimentation purposes.  
-Please respect attribution where applicable.
 
 ---
 
-**Thanks for stopping by.**  
-Feel free to explore, fork, or get inspired.
+### Thanks for stopping by.
+Explore slowly. Fork thoughtfully. Build deliberately.
