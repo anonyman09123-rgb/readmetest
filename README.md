@@ -128,11 +128,15 @@ If something feels heavy, it’s unfinished.
 
 ---
 
+### Thanks for stopping by.
+Explore slowly. Fork thoughtfully. Build deliberately.
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3B2A23,50:D4AF37,100:B23A2E&fontSize=0" />
 </p>
 
 ---
 
-### Thanks for stopping by.
-Explore slowly. Fork thoughtfully. Build deliberately.
+
