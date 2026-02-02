@@ -16,7 +16,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B2A23,100:D4AF37" />
 </p>
 
----
+
 
 ## About Me
 
@@ -36,7 +36,7 @@ I enjoy building things that are:
 - **Functional**, but never cold  
 - **Practical**, with personality embedded  
 
----
+
 
 <!-- ===== subtle divider ===== -->
 <p align="center">
@@ -53,7 +53,7 @@ I enjoy building things that are:
   </svg>
 </p>
 
----
+
 
 ## What Lives Here
 
@@ -72,7 +72,7 @@ Some projects are experimental.
 Some are production-ready.  
 Some exist purely to explore an idea properly.
 
----
+
 
 ## Philosophy
 
@@ -88,14 +88,14 @@ I value:
 
 If something feels heavy, it’s unfinished.
 
----
+
 
 <!-- ===== divider ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D4AF37,100:B23A2E" />
 </p>
 
----
+
 
 ## Tech Stack (varies by project)
 
@@ -111,7 +111,7 @@ If something feels heavy, it’s unfinished.
   <img src="https://img.shields.io/badge/CSS3-3B2A23?style=for-the-badge&logo=css3&logoColor=F4EDE4"/>
 </p>
 
----
+
 
 ## Status
 
@@ -119,24 +119,23 @@ If something feels heavy, it’s unfinished.
 - Structure evolves as systems mature  
 - Public repository, intentionally curated  
 
----
+
 
 ## Contact & Links
 
 - 🌐 Website: https://kitchenengineer1332.github.io  
 - 🐙 GitHub: https://github.com/KitchenEngineer1332  
 
----
+
 
 ### Thanks for stopping by.
 Explore slowly. Fork thoughtfully. Build deliberately.
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3B2A23,50:D4AF37,100:B23A2E&fontSize=0" />
 </p>
 
----
+
 
 
