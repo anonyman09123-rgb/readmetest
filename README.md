@@ -1,13 +1,16 @@
-<!-- ===================================================== -->
-<!--                     HERO SECTION                      -->
-<!-- ===================================================== -->
+<!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=34&pause=1200&color=B23A2E&center=true&vCenter=true&width=900&lines=KitchenEngineer1332;Engineering+with+Intent;Systems+that+Feel+Human" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:B23A2E,50:D4AF37,100:3B2A23&text=KitchenEngineer1332&fontAlignY=35&fontSize=42&fontColor=F4EDE4" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B23A2E,50:D4AF37,100:3B2A23&height=110&section=header&text=&fontSize=0" />
+  <em>Engineering logic • Creative expression</em><br/>
+  <sub>Systems that are quietly powerful and deliberately human</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B2A23,100:D4AF37" />
 </p>
 
 ---
