@@ -91,17 +91,6 @@ The editor is modularly structured inside `script.js`:
 
 State is centrally managed and persisted where necessary.
 
----
-
-## Possible Enhancements
-
-- Markdown mode
-- Real-time collaboration
-- Plugin system
-- Cloud sync
-- Offline PWA support
-- Desktop packaging (AppImage / Electron)
-- Custom theme builder
 
 ---
 
