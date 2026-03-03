@@ -110,7 +110,7 @@ State is centrally managed and persisted where necessary.
 
 ---
 
-## 🔮 Possible Enhancements
+## Possible Enhancements
 
 - Markdown mode
 - Real-time collaboration
@@ -122,14 +122,7 @@ State is centrally managed and persisted where necessary.
 
 ---
 
-## 📄 License
+## License
 
-Open-source — free to modify and extend.
+Open-source —> free to modify and extend.
 
----
-
-## 👤 Author
-
-Built with attention to detail and UI precision.
-
-If you found this useful, consider giving it a ⭐
