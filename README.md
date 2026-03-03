@@ -3,13 +3,13 @@
 
 Quill is a modern, production-ready rich text editor built with pure HTML, CSS, and Vanilla JavaScript.
 
-It delivers a refined, Apple-inspired interface with advanced editing tools, theme support, autosave, zoom control, file export, and more — all running fully in the browser.
+It delivers a refined, Apple-inspired interface with advanced editing tools, theme support, autosave, zoom control, file export, and more, all running fully in the browser.
 
 ---
 
-## 🚀 Features
+## Features
 
-### 📝 Rich Text Editing
+### Rich Text Editing
 - Bold, Italic, Underline, Strikethrough
 - Text alignment (Left, Center, Right, Justify)
 - Ordered & Unordered lists
@@ -17,33 +17,33 @@ It delivers a refined, Apple-inspired interface with advanced editing tools, the
 - Line spacing control
 - Clear formatting
 
-### 🎨 Advanced Font System
+### Advanced Font System
 - 50+ Google Fonts integrated
 - Live preview font picker
 - Font size selection
 - Text color & highlight color
 
-### 🌗 Theme System
+### Theme System
 - Light mode
 - Dark mode
 - Sepia mode
 - System theme detection
 
-### 💾 Storage & Autosave
+### Storage & Autosave
 - Automatic local autosave
 - Save documents to browser storage
 - Recent documents list
 - Word & character count
 - Zoom persistence
 
-### 📂 File Operations
+### File Operations
 - New document
 - Open `.html` and `.txt` files
 - Save as HTML
 - Save as TXT
 - Export as PDF (via browser print)
 
-### 🔎 Productivity Tools
+### Productivity Tools
 - Find & Replace with live highlighting
 - Floating contextual toolbar
 - Keyboard shortcuts
@@ -51,29 +51,20 @@ It delivers a refined, Apple-inspired interface with advanced editing tools, the
 - Page breaks
 - Modal-based insert dialogs
 
-### 📐 Premium UI
-- Apple-inspired minimal design
-- Smooth animations
-- Responsive layout
-- Clean design tokens system
-- CSS-based theme engine
-- Backdrop blur effects
-
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- **HTML5** – Semantic structure
-- **CSS3** – Design system & theming
+- **HTML** – Semantic structure
+- **CSS** – Design system & theming
 - **Vanilla JavaScript (ES6+)** – Modular architecture
 - **LocalStorage API** – Persistence
-- **document.execCommand** – Rich text operations
 
 No frameworks. No dependencies. Fully standalone.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -84,16 +75,7 @@ No frameworks. No dependencies. Fully standalone.
 
 ---
 
-## ⚙️ How to Run
-
-1. Download or clone the repository
-2. Open `index.html` in your browser
-
-That’s it. No build tools required.
-
----
-
-## 💡 Architecture Overview
+## Architecture Overview
 
 The editor is modularly structured inside `script.js`:
 
