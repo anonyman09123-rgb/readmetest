@@ -1,28 +1,74 @@
-# ✨ Premium PDF Viewer & Editor
+# ✨ Quill — Premium Web WordPad
 
-A modern, elegant, and responsive PDF Viewer & Editor built using **HTML, CSS, and JavaScript**.
+Quill is a modern, production-ready rich text editor built with pure HTML, CSS, and Vanilla JavaScript.
 
-Designed with a premium, minimal, Apple-inspired UI — smooth animations, clean typography, and customizable themes.
+It delivers a refined, Apple-inspired interface with advanced editing tools, theme support, autosave, zoom control, file export, and more — all running fully in the browser.
 
 ---
 
 ## 🚀 Features
 
-- 📂 Import PDF files
-- 👀 View PDFs smoothly in-browser
-- ✏️ Edit PDF content
-- 📤 Export modified PDFs
-- 🎨 Customizable theme support
-- 📱 Fully responsive design
-- ✨ Premium UI with smooth interactions
+### 📝 Rich Text Editing
+- Bold, Italic, Underline, Strikethrough
+- Text alignment (Left, Center, Right, Justify)
+- Ordered & Unordered lists
+- Insert links, images, tables
+- Line spacing control
+- Clear formatting
+
+### 🎨 Advanced Font System
+- 50+ Google Fonts integrated
+- Live preview font picker
+- Font size selection
+- Text color & highlight color
+
+### 🌗 Theme System
+- Light mode
+- Dark mode
+- Sepia mode
+- System theme detection
+
+### 💾 Storage & Autosave
+- Automatic local autosave
+- Save documents to browser storage
+- Recent documents list
+- Word & character count
+- Zoom persistence
+
+### 📂 File Operations
+- New document
+- Open `.html` and `.txt` files
+- Save as HTML
+- Save as TXT
+- Export as PDF (via browser print)
+
+### 🔎 Productivity Tools
+- Find & Replace with live highlighting
+- Floating contextual toolbar
+- Keyboard shortcuts
+- Undo / Redo
+- Page breaks
+- Modal-based insert dialogs
+
+### 📐 Premium UI
+- Apple-inspired minimal design
+- Smooth animations
+- Responsive layout
+- Clean design tokens system
+- CSS-based theme engine
+- Backdrop blur effects
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **HTML5** – Structure  
-- **CSS3** – Styling & Animations  
-- **JavaScript (Vanilla JS)** – Functionality  
+- **HTML5** – Semantic structure
+- **CSS3** – Design system & theming
+- **Vanilla JavaScript (ES6+)** – Modular architecture
+- **LocalStorage API** – Persistence
+- **document.execCommand** – Rich text operations
+
+No frameworks. No dependencies. Fully standalone.
 
 ---
 
@@ -30,65 +76,60 @@ Designed with a premium, minimal, Apple-inspired UI — smooth animations, clean
 
 ```
 .
-├── index.html      # Main HTML file
-├── styles.css      # Styling and themes
-└── script.js       # Core functionality
+├── index.html     # Main application UI
+├── styles.css     # Design system & themes
+└── script.js      # Editor core logic
 ```
 
 ---
 
-## ⚙️ Installation & Usage
+## ⚙️ How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   ```
+1. Download or clone the repository
+2. Open `index.html` in your browser
 
-2. Navigate into the project directory:
-   ```bash
-   cd your-repo-name
-   ```
-
-3. Open `index.html` in your browser.
-
-No build tools or dependencies required.
+That’s it. No build tools required.
 
 ---
 
-## 🎨 Customization
+## 💡 Architecture Overview
 
-You can easily:
+The editor is modularly structured inside `script.js`:
 
-- Modify themes inside `styles.css`
-- Enhance functionality inside `script.js`
-- Adjust layout in `index.html`
+- ThemeManager
+- ZoomManager
+- Storage (Autosave & Recent Docs)
+- Editor Core
+- Find & Replace Engine
+- File Operations
+- Modal System
+- Floating Toolbar
+- Insert Utilities
 
----
-
-## 🌟 Future Improvements
-
-- Dark/Light automatic theme detection
-- Annotation tools (highlight, draw, comments)
-- Page reordering
-- Cloud sync support
-- AppImage/Desktop packaging
+State is centrally managed and persisted where necessary.
 
 ---
 
-## 📸 Preview
+## 🔮 Possible Enhancements
 
-Add screenshots or GIFs here for better presentation.
+- Markdown mode
+- Real-time collaboration
+- Plugin system
+- Cloud sync
+- Offline PWA support
+- Desktop packaging (AppImage / Electron)
+- Custom theme builder
 
 ---
 
 ## 📄 License
 
-This project is open-source. Feel free to modify and use it for personal or commercial purposes.
+Open-source — free to modify and extend.
 
 ---
 
-## 💡 Author
+## 👤 Author
 
-Made with precision and attention to detail.
+Built with attention to detail and UI precision.
 
-If you like this project, consider giving it a ⭐ on GitHub!
+If you found this useful, consider giving it a ⭐
